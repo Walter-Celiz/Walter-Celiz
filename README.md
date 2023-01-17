@@ -57,26 +57,4 @@ Soy Front-End Developer con estudios en FullStack, concretamente el stack PERN,
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
 
-
-
-</td><td valign="top" width="50%">
-
-
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Walter-Celiz&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
