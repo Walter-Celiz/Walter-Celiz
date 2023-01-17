@@ -37,14 +37,14 @@ Soy Front-End Developer con estudios en FullStack, concretamente el stack PERN,
 
 ### Tecnologias que uso  
 <div align="center">  
- <p align="center"> 
-        <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px"
+ <p align="center">
+            <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px"
                     src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React"
-                    height="25" /></a> React   <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px"
+                    height="25" /></a>React &nbsp;&nbsp;&nbsp;<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px"
                     src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux"
-                    height="25" /></a> Redux   <a href="https://www.javascript.com/" target="_blank"><img
+                    height="25" /></a> Redux&nbsp;&nbsp;<a href="https://www.javascript.com/" target="_blank"><img
                     style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"
-                    alt="JavaScript" height="25" /></a> JavaScript   <a href="https://en.wikipedia.org/wiki/HTML5"
+                    alt="JavaScript" height="25" /></a> JavaScript&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/HTML5"
                 target="_blank"><img style="margin: 10px"
                     src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5"
                     height="25" /></a> HTML5   <a href="https://www.w3schools.com/css/" target="_blank"><img
@@ -66,7 +66,7 @@ Soy Front-End Developer con estudios en FullStack, concretamente el stack PERN,
                     alt="PostgreSQL" height="25" /></a> PostgresSQL   <a href="https://github.com/" target="_blank"><img
                     style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git"
                     height="25" /></a> Git  
-    </p>
+        </p>
 </div>  
 
 <br/>  
