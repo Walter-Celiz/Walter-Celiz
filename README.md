@@ -8,7 +8,7 @@
 <br/>  
 
 
-Actualmente vivo en el norte de Argentina y ademas de hacer buen codigo, hago terrriiible asados!!! 
+Hello World 👋 Mi nombre es Walter Celiz, actualmente vivo en norte de Argentina, pero en unos meses vivire en chile,  no solo hago buen codigo, soy un excelente compañero y hago excelentes asados!!
 Soy FrontEnd Developer con estudios en FullStack Developer, concretamente el stack PERN,   
   
 
