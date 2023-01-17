@@ -8,8 +8,8 @@
 <br/>  
 
 
-Naci en el norte de Argentina y ademas de hacer buen codigo, hago terrriiible asados!!! 
-Soy FrontEnd Developer con estudios en FullStack, concretamente el stack PERN,   
+Actualmente vivo en el norte de Argentina y ademas de hacer buen codigo, hago terrriiible asados!!! 
+Soy FrontEnd Developer con estudios en FullStack Developer, concretamente el stack PERN,   
   
 
 <br/>  
