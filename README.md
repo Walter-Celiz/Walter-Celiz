@@ -79,9 +79,10 @@ Soy Front-End Developer con estudios en FullStack, concretamente el stack PERN,
             Express &nbsp;&nbsp;&nbsp;
             <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px"
                     src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg"
-                    alt="PostgreSQL" height="25" /></a> PostgresSQL <a href="https://github.com/" target="_blank"><img
-                    style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git"
-                    height="25" /></a>
+                    alt="PostgreSQL" height="25" /></a>
+            PostgresSQL &nbsp;&nbsp;&nbsp;
+            <a href="https://github.com/" target="_blank"><img style="margin: 10px"
+                    src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>
             Git &nbsp;&nbsp;&nbsp;
         </p>
 </div>  
