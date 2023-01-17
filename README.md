@@ -25,7 +25,7 @@ Soy FrontEnd Developer con estudios en FullStack Developer, concretamente el sta
 </td><td valign="center" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif" align="center" style="width: 100%" />
 </div>  
 
 
