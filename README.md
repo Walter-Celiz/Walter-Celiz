@@ -11,7 +11,6 @@
 
 
 
-### Mucho gustoo   
 Naci en el norte de Argentina y ademas de hacer buen codigo, hago terrriiible asados!!! 
 Soy Front-End Developer con estudios en FullStack, concretamente el stack PERN,   
   
@@ -26,7 +25,7 @@ Soy Front-End Developer con estudios en FullStack, concretamente el stack PERN,
 - ⚡ Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formacion como programador, aprendiendo metodologia CSS, BEM y TypeScript  
 
 
-</td><td valign="top" width="50%">
+</td><td valign="center" width="50%">
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
@@ -65,8 +64,6 @@ Soy Front-End Developer con estudios en FullStack, concretamente el stack PERN,
 </td><td valign="top" width="50%">
 
 
-
-</td></tr></table>  
 
 <br/>  
 
