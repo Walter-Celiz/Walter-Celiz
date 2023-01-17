@@ -12,7 +12,7 @@
 
 
 ### Mucho gustoo   
-Naci en el norte de Argentina y ademas de hacer codigo, hago terrriiible asados!!! 
+Naci en el norte de Argentina y ademas de hacer buen codigo, hago terrriiible asados!!! 
 Soy Front-End Developer con estudios en FullStack, concretamente el stack PERN,   
   
 
@@ -60,7 +60,7 @@ Soy Front-End Developer con estudios en FullStack, concretamente el stack PERN,
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walter-Celiz&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
 
 </td><td valign="top" width="50%">
 
@@ -83,4 +83,3 @@ Soy Front-End Developer con estudios en FullStack, concretamente el stack PERN,
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
