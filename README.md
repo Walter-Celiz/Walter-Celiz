@@ -19,7 +19,7 @@ Soy FrontEnd Developer con estudios en FullStack Developer, concretamente el sta
 - ⚡ Me egrese del bootcamp [Henry](https://www.soyhenry.com/) FullStack Developer (+700 hs) desarrollando 2 aplicaciones  individuales utilizando el stack PERN y una aplicacion grupal en la cual decidimos implementar nuevas tecnoligas, personalmente en ella aprendi Redux-Toolkit. CSS Grid, Diseño responsivo, Git Flow y Metodoligas AGILE SCRUM   
   
 
-- ⚡ Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formacion como programador, aprendiendo metodologia CSS, BEM y TypeScript  
+- ⚡ Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formacion como programador, aprendiendo metodologia, CSS, NextJS y TypeScript  
 
 
 </td><td valign="center" width="50%">
